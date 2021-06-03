@@ -73,5 +73,18 @@ Staging area에 있는 파일들을 하나의 commit으로 저장하는 명령�
   git push origin master
   ```
 
-  
+  ![flamingotiger.github.io/image/thumb/git-thumb.jpg](git-thumb.jpg)
 
+### status
+
+git 의 현재 상태를 확인하는 명령어
+
+
+
+- 기본명령어
+
+  ```bash
+  git status
+  ```
+
+  
