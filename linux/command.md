@@ -37,3 +37,8 @@ Mkdir(make directory)
 
 - 파일을 생성하는 명령어
 - 'touch '
+
+```
+
+```
+
